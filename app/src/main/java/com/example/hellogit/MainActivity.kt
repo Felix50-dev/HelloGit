@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     println("Experiment with branch experiment")
                     println("this line will be merged using the command line")
+                    println("Hello there :)")
                 }
             }
         }
