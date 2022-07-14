@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     Greeting("Android")
-                    println("Experiment with git")
+                    println("Experiment with branch experiment")
                 }
             }
         }
